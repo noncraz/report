@@ -1,6 +1,6 @@
 import requests
 import json
-import pyfiglet,time
+import time
 rs = requests.session()
 R = "\033[1;31m"
 G = "\033[1;32m"
